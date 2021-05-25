@@ -18,25 +18,19 @@ html {
 
 @media only screen and (max-width:62.5em) {
     html {
-        font-size: 56.25%
+        font-size: 62%
     }
 }
 
 @media only screen and (max-width:56.25em) {
     html {
-        font-size: 54%
+        font-size: 58%
     }
 }
 
 @media only screen and (max-width:37.5em) {
     html {
-        font-size: 51%
-    }
-}
-
-@media only screen and (max-width:30.5em) {
-    html {
-        font-size: 46%
+        font-size: 55%
     }
 }
 
@@ -135,7 +129,7 @@ body {
 .😂 {
     position: absolute;
     left: 50%;
-    transform: translate(-50%);
+    transform: translate(-55%);
     text-align: center;
 }
 
@@ -172,9 +166,11 @@ body {
 }
 
 @media only screen and (max-width:62.5em) {
-    .text-container {
-        width: 28rem;
-        margin: -5.6rem 0 -3rem -.55rem
+    .🤣 {
+        top: 30%;
+    }
+    .project-container {
+        top: 50%
     }
 }
 
@@ -194,6 +190,6 @@ body {
 
 @media only screen and (max-width:62.25em) {
     .heading-1 {
-        font-size: 2rem
+        font-size: 3rem
     }
 }
